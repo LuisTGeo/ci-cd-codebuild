@@ -1,5 +1,3 @@
 # ci-cd-codebuild
 
-Dcortor
-ss
-TRavl
+Readme ...
